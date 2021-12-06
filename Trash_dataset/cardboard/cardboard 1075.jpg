@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 116 116">
+    <defs>
+        <style>
+            /* Hide all of the icons first. */
+            .icon {
+                display: none;
+            }
+
+            .icon--small {
+                display: block;
+            }
+
+
+            /* Display the desired icon and hide the others according to the viewport's size. */
+            @media screen and (min-width: 100px) {
+
+                .icon--large {
+                    display: block;
+                }
+
+                .icon--small {
+                    display: none;
+                }
+            }
+
+            @media screen and (max-width: 69px){
+                .icon--small *{
+                    stroke-width: 3;
+                }
+            }
+        </style>
+    </defs>
+
+
+    <g class="icon icon--large">
+<path d="M42.4,87.47l1.75-1.17-2-.91-.71.49-.74-1.13L36.76,83v-.52l1.84.82V81.75l-5-2.21V82h0a2.52,2.52,0,0,0-1.16-1c-.93-.41-1.63-.1-1.88.63a3.65,3.65,0,0,0-2.08-2.4c-.87-.39-1.56-.3-1.92.17v-.79l-1.8-.8v-.85l2,.88V76.48l-3.57-1.59v6l1.61.71V79.08l1.6.71a2,2,0,0,0-.08.56,3.68,3.68,0,0,0,2.19,3.11c1,.46,1.72.28,2.08-.44l-1.38-.61c-.19.18-.33.2-.7,0a1.45,1.45,0,0,1-.8-1.17l2.8,1.25a3.63,3.63,0,0,0,2,2.73,1,1,0,0,0,1.14-.1h0v.39l7,3.1.72-.49.75,1.15,2.11.94ZM27.76,80.41c.09-.34.39-.46.76-.29a1.32,1.32,0,0,1,.77,1Zm5,3.83a1.57,1.57,0,0,1-.85-1.36c0-.54.28-.93.85-.68a1.51,1.51,0,0,1,.82,1.42c0,.51-.25.88-.82.62m5.5,3.07-3.09-1.38V80.52l3.11,1.39v1l-1.84-.82v1.1l1.82.81v.91l-1.84-.82v1.45l1.84.82Zm-1.51-2v-.79l1.84.82V83.94l1.66,2.59-1.66,1.11V86.17Zm4.54,2.36-.85.58-1.25-.56,1.49-1L39.22,84.4l1.3.58.87,1.34.84-.58,1.26.56L42,87.3l1.51,2.34-1.33-.59Z" fill="#4d148c"/><line x1="56.85" y1="105.48" x2="24.68" y2="90.18" fill="none"/><polyline points="87.8 90.29 46.1 110.5 13.41 94.78 28.27 88.71" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="57.97" y1="22.2" x2="90.13" y2="37.51" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><polyline points="90.13 83 90.13 17.21 57.97 1.5 57.97 40.33" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><polygon points="50.66 99.77 84.28 83 84.28 52.63 50.66 36.91 16.72 52.63 16.72 83 50.66 99.77" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="16.72" y2="52.63" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="50.66" y2="99.77" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="66.71" y1="44.38" x2="33.26" y2="60.66" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><ellipse cx="93.19" cy="89.77" rx="5.39" ry="7.79" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="84.28" y2="52.63" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+
+    <g class="icon icon--small">
+<line x1="56.85" y1="105.48" x2="24.68" y2="90.18" fill="none"/><polyline points="87.8 90.29 46.1 110.5 13.41 94.78 28.27 88.71" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="57.97" y1="22.2" x2="90.13" y2="37.51" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><polyline points="90.13 83 90.13 17.21 57.97 1.5 57.97 40.33" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><polygon points="50.66 99.77 84.28 83 84.28 52.63 50.66 36.91 16.72 52.63 16.72 83 50.66 99.77" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="16.72" y2="52.63" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="50.66" y2="99.77" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="66.71" y1="44.38" x2="33.26" y2="60.66" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><ellipse cx="93.19" cy="89.77" rx="5.39" ry="7.79" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><line x1="50.66" y1="69.29" x2="84.28" y2="52.63" fill="none" stroke="#4d148c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+</svg>
