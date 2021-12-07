@@ -1,1 +1,1 @@
-# WasteBox
+# TrashBox
