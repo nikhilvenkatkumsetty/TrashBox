@@ -1,8 +1,0 @@
-cff-version: 1.0.0
-message: "If you use this datset, please cite it as below."
-authors:
-  - family-names: Kumsetty, Nekkare
-    given-names: Nikhil, Amith
-title: "TrashBox"
-version: 2.0.0
-date-released: 2021-12-5
