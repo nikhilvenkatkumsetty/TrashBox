@@ -2,7 +2,7 @@
 
 - Dataset of trash objects for waste classification and detection.
 
-- Contains 17694 waste object images divided into seven classes (glass, plastic, metal, e-waste, cardboard, paper, medical waste).
+- Contains 17785 waste object images divided into seven classes (glass, plastic, metal, e-waste, cardboard, paper, medical waste).
 
 - Each class is furthur divided into its subclasses as follows:
 
