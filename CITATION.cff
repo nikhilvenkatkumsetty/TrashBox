@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Kumsetty"
+  given-names: "Nikhil"
+  orcid: "https://orcid.org/0000-0001-9844-4766"
+- family-names: "Nekkare"
+  given-names: "Amith"
+#   orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "TrashBox"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-16
+url: "https://github.com/nikhilvenkatkumsetty/TrashBox"
