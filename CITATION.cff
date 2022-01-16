@@ -6,7 +6,7 @@ authors:
   orcid: "https://orcid.org/0000-0001-9844-4766"
 - family-names: "Nekkare"
   given-names: "Amith"
-#   orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0001-5199-5317"
 title: "TrashBox"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
