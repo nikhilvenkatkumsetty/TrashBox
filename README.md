@@ -14,6 +14,6 @@
 6. Glass [Number of images: 2528]
 7. Cardboard [Number of images: 2414]
 
-**NOTE:The testing and validation data will be updated soon...**
+**NOTE: The testing and validation data will be updated soon...**
 
 Furthur details of the dataset will be added in a comprehensive report we will be making public in due course.
