@@ -1,5 +1,5 @@
 # TrashBox
-**The TrashBox dataset will be presented in 31st IEEE FRUCT Conference hosted by University of Helsinki (Finland) [click here](https://www.fruct.org/cfp)**
+**The TrashBox dataset will be presented and published in 31st IEEE FRUCT Conference hosted by University of Helsinki (Finland) [click here](https://www.fruct.org/cfp)**
 - Dataset of trash objects for waste classification and detection.
 
 - Contains 17785 waste object images divided into seven classes (glass, plastic, metal, e-waste, cardboard, paper, medical waste).
