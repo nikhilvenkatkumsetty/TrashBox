@@ -1,4 +1,5 @@
 # TrashBox
+## **The paper is available on IEEE website [click here](https://ieeexplore.ieee.org/abstract/document/9770922)** ##
 ## **The TrashBox dataset will be presented and published in 31st IEEE FRUCT Conference hosted by University of Helsinki (Finland) [click here](https://www.fruct.org/cfp)** ##
 - Dataset of trash objects for waste classification and detection.
 
