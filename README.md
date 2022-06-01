@@ -17,4 +17,6 @@
 
 **NOTE: The testing and validation data will be updated soon...**
 
-Furthur details of the dataset will be added in a comprehensive report we will be making public in due course.
+Furthur details of the dataset is available at Proceedings of the FRUCT'31 website [link](https://fruct.org/publications/fruct31/).
+
+The report in PDF format is available [here](https://fruct.org/publications/fruct31/files/Kum.pdf)
