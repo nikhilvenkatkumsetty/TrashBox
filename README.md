@@ -15,10 +15,10 @@
 6. Glass [Number of images: 2528]
 7. Cardboard [Number of images: 2414]
 
-**NOTE: The testing and validation data will be updated soon...**
+**NOTE: The testing and validation data will be updated soon...
 
 Furthur details of the dataset is available at Proceedings of the FRUCT'31 website [link](https://fruct.org/publications/fruct31/).
 
 The report in PDF format is available [here](https://fruct.org/publications/fruct31/files/Kum.pdf)
 
-If you use this dataset in your work, please cite it as per the IEE Xplore citation of our paper available [here](https://ieeexplore.ieee.org/abstract/document/9770922)
+If you use this dataset in your work, please cite it as per the IEE Xplore citation of our paper available [here](https://ieeexplore.ieee.org/abstract/document/9770922)**
