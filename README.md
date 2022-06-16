@@ -5,7 +5,7 @@
 
 ### **The report in PDF format is available [here](https://fruct.org/publications/fruct31/files/Kum.pdf)** ###
 
-### **If you use this dataset in your work, please cite it as per the IEE Xplore citation of our paper available [here](https://ieeexplore.ieee.org/abstract/document/9770922)** ###
+### **If you use this dataset in your work, please cite it as per the IEEE Xplore citation of our paper available [here](https://ieeexplore.ieee.org/abstract/document/9770922)** ###
 
 - Dataset of trash objects for waste classification and detection.
 
