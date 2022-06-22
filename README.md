@@ -21,4 +21,4 @@
 6. Glass [Number of images: 2528]
 7. Cardboard [Number of images: 2414]
 
-**NOTE: The testing and validation data will be updated soon...**
+## **NOTE: The testing and validation data is available [here](https://github.com/nikhilvenkatkumsetty/TrashBox-testandvalid)** ##
