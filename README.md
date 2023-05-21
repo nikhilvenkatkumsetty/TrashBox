@@ -3,7 +3,7 @@
 ## **The TrashBox dataset is presented and published in 31st IEEE FRUCT Conference hosted by University of Helsinki (Finland) [click here](https://fruct.org/program31)** ##
 ### **Furthur details of the dataset is available at Proceedings of the FRUCT'31 website [link](https://fruct.org/publications/fruct31/).** ###
 
-### **The report in PDF format is available [here](https://fruct.org/publications/fruct31/files/Kum.pdf)** ###
+### **The report in PDF format is available [here](https://fruct.org/publications/volume-31/fruct31/files/Kum.pdf)** ###
 
 ### **If you use this dataset in your work, please cite it as per the IEEE Xplore citation of our paper available [here](https://ieeexplore.ieee.org/abstract/document/9770922)** ###
 
